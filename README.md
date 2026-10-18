@@ -42,7 +42,7 @@
 - Tìm hiểu đề tài và quy trình mô phỏng của trung tâm xét nghiệm.
 - Xác định yêu cầu và các chức năng chính của hệ thống.
 
-**Trạng thái:** Chưa cập nhật.
+**Trạng thái:** Đã hoàn thành
 
 ### Tuần 2: 19/10/2026 – 25/10/2026
 
