@@ -50,7 +50,7 @@
 - Xây dựng sơ đồ hoạt động.
 - Xây dựng sơ đồ thực thể – kết hợp (ERD) và lược đồ quan hệ.
 
-**Trạng thái:** Chưa thực hiện.
+**Trạng thái:** Đang thực hiện.
 
 ### Tuần 3: 26/10/2026 – 01/11/2026
 
