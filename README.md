@@ -50,7 +50,7 @@
 - Xây dựng sơ đồ hoạt động.
 - Xây dựng sơ đồ thực thể – kết hợp (ERD) và lược đồ quan hệ.
 
-**Trạng thái:** Đang thực hiện.
+**Trạng thái:** Đã hoàn thành.
 
 ### Tuần 3: 26/10/2026 – 01/11/2026
 
@@ -59,7 +59,7 @@
 - Tạo các bảng, khóa chính, khóa ngoại và các mối quan hệ.
 - Chuẩn bị dữ liệu mô phỏng.
 
-**Trạng thái:** Chưa thực hiện.
+**Trạng thái:** Đang thực hiện.
 
 ### Tuần 4: 02/11/2026 – 08/11/2026
 
@@ -67,7 +67,7 @@
 - Thiết kế giao diện Web cơ bản bằng HTML, CSS và JavaScript.
 - Xây dựng giao diện quản lý bệnh nhân, loại xét nghiệm và phiếu xét nghiệm.
 
-**Trạng thái:** Chưa thực hiện.
+**Trạng thái:** Đang thực hiện.
 
 ### Tuần 5: 09/11/2026 – 15/11/2026
 
@@ -75,7 +75,7 @@
 - Xây dựng chức năng đăng nhập và phân quyền Quản lý/Nhân viên.
 - Lập trình chức năng quản lý bệnh nhân, loại xét nghiệm và phiếu xét nghiệm.
 
-**Trạng thái:** Chưa thực hiện.
+**Trạng thái:** Đang thực hiện.
 
 ### Tuần 6: 16/11/2026 – 22/11/2026
 
