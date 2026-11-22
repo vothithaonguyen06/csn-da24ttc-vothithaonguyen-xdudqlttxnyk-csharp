@@ -59,7 +59,7 @@
 - Tạo các bảng, khóa chính, khóa ngoại và các mối quan hệ.
 - Chuẩn bị dữ liệu mô phỏng.
 
-**Trạng thái:** Đang thực hiện.
+**Trạng thái:** Đã hoàn thành .
 
 ### Tuần 4: 02/11/2026 – 08/11/2026
 
